@@ -1,12 +1,12 @@
-# new-git-repo-template
+# Ruby on Rails Tutorial
 
 ## Description
 
-The project contains basic files to the new git repository.
+The project contains examples from Michael Hartl book: The Ruby on Rails Tutorial.
 
 ## Motivation
 
-The projects has been created to easier setup new git repository.
+The projects has been created to learn Ruby on Rails framework.
 
 ## Installation
 
