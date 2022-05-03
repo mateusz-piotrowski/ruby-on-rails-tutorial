@@ -7,6 +7,7 @@
 - hello_app files
 - toy_app files - add users functionality
 - toy_app files - add microposts functionality
+- toy_app files - limit content to 140 characters
 
 ## [0.0.2] (May 01 2022)
 
