@@ -5,6 +5,7 @@
 **Added :**
 
 - hello_app files
+- toy_app files
 
 ## [0.0.2] (May 01 2022)
 
