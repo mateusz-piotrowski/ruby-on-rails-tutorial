@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.4] (May 13 2022)
+
+**Added :**
+
+- sample_app - static pages controller
+
 ## [0.0.3] (May 03 2022)
 
 **Added :**
