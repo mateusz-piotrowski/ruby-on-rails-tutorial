@@ -5,6 +5,7 @@
 **Added :**
 
 - sample_app - static pages controller
+- sample_app - update home.html.erb and help.html.erb
 
 ## [0.0.3] (May 03 2022)
 
