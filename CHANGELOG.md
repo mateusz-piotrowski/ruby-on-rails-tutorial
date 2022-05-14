@@ -6,6 +6,12 @@
 
 - sample_app - add about page
 
+**Updated :**
+
+- Home page
+- Help page
+- About page
+
 ## [0.0.4] (May 13 2022)
 
 **Added :**
