@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.5] (May 14 2022)
+
+**Added :**
+
+- sample_app - add about page
+
 ## [0.0.4] (May 13 2022)
 
 **Added :**
