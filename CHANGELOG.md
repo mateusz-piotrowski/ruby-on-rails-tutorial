@@ -7,6 +7,7 @@
 - Home page
 - Help page
 - About page
+- routes.rb file
 
 ## [0.0.5] (May 14 2022)
 
