@@ -1,5 +1,13 @@
 # The Changelog
 
+## [0.0.6] (May 18 2022)
+
+**Updated :**
+
+- Home page
+- Help page
+- About page
+
 ## [0.0.5] (May 14 2022)
 
 **Added :**
